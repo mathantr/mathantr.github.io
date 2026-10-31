@@ -1,11 +1,11 @@
 {
-    "name": "responsive_portfolio",
-    "short_name": "responsive_portfolio",
+    "name": "Mathan Thiruvenkadam — Senior Flutter Developer",
+    "short_name": "Mathan T.",
     "start_url": ".",
     "display": "standalone",
-    "background_color": "#0175C2",
-    "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "background_color": "#070B14",
+    "theme_color": "#00F5D4",
+    "description": "Portfolio of Mathan Thiruvenkadam — Senior Flutter Developer specializing in Mobile & Linux Desktop applications.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
